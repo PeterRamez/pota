@@ -1,5 +1,5 @@
 matplotlib==3.9.2
 numpy
-pandas
+pandas==2.2.2
 plotly
-seaborn
+seaborn==0.13.2
